@@ -1,2 +1,2 @@
-# C-25
-Core activites
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
